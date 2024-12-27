@@ -17,8 +17,8 @@ export default function CallToAction() {
                 Utopia Real Estate, developed by Sujal Pachori, uses the MERN stack and Tailwind CSS. The app offers advanced authentication with JWT and Google OAuth, allowing users to add property listings with up to six images. It features a robust search function, and Redux Toolkit ensures smooth data management across components.
             </p>
             <Button gradientDuoTone='purpleToPink' className='rounded-tl-xl rounded-bl-none'>
-                <a href="https://github.com/SujalPachori/Utopia_Real_Estate" target='_blank' rel='noopener noreferrer'>
-                    Github
+                <a href="https://utopia-real-estate.onrender.com/" target='_blank' rel='noopener noreferrer'>
+                    Let's find your paradise!
                 </a>
             </Button>
         </div>

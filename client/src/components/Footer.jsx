@@ -22,7 +22,7 @@ export default function FooterCom() {
               <Footer.Title title='About' />
               <Footer.LinkGroup col>
                 <Footer.Link
-                  href='https://drive.google.com/file/d/17f4EyBefykXlSXmB_9anbETo_Daj8r-6/view'
+                  href='https://drive.google.com/file/d/1eRwf4arVCy-4ZFXf_VqLy6Qrimi8rhdT/view?usp=sharing'
                   target='_blank'
                   rel='noopener noreferrer'
                 >
